@@ -23,7 +23,8 @@ cd AppWeb
 para abrir o vscode. contendo apenas as pastas backend e frontend.
 5. Assim deve ficar:
 
-![vscode1](https://github.com/Leiriads/teste/assets/89768557/887f0d17-740e-4e88-a70a-72b8acbb2dc7)
+
+![vscode1](https://github.com/Leiriads/Teste/assets/89768557/62807a05-27d1-4a58-be1f-ab2197fb4433)
 
 
 6. Ainda com o terminal aberto navegue até o diretório backend:
@@ -87,7 +88,10 @@ http://localhost:3333/produtos
 
 1. Instale  o plugin LiveServer no seu Vscode
 2. Dentro da pasta Frontend procure o arquivo `index.html` que não está dentro de nenhuma pasta.
-![vscode](https://github.com/Leiriads/teste/assets/89768557/03ef7fcd-82bb-412f-a3e2-071375dc8d01)
+
+![vscode](https://github.com/Leiriads/Teste/assets/89768557/30f683a9-865a-4297-8557-07d64ecd87e3)
+
+
 3. Clique com o botão direito sobreo mesmo e abra com LiveServer.
 4. Você deve cair em uma pagina de Login.
 5. Não esqueça de ligar a Api antes de acessar o frontend.
